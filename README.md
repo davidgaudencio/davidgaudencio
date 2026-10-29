@@ -62,4 +62,11 @@ Aqui você encontrará meus projetos, estudos e experiências durante minha jorn
 </a>
 </p>
 
+📧 Entre em contato por e-mail
+
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&to=david.gaudencio@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Enviar%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail para David Hudson"/>
+</a>
+</p>
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
