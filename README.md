@@ -31,9 +31,9 @@ Tecnologias que estou aprendendo ou utilizando:
 
 🐙 Git e GitHub
   
-    SQL
-  
-    MySQL
+🗄️ SQL
+
+🐬 MySQL
 
 ## 📌 Meus objetivos
 Desenvolver projetos práticos.
@@ -50,10 +50,18 @@ Aqui você encontrará meus projetos, estudos e experiências durante minha jorn
 
 📫 Entre em contato
 
-💼 LinkedIn: [https://www.linkedin.com/in/david-hudson-leal-gaudencio-a80693227]
 
-📧 E-mail: [david.gaudencio@gmail.com]
+<p align="left">
+<a href="https://www.linkedin.com/in/david-hudson-leal-gaudencio-a80693227/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:david.gaudencio@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/davidgaudencio" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 
-🌎 GitHub: @davidgaudencio
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
